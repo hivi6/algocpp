@@ -5,6 +5,7 @@ Algorithms and Data structures in C++
 ## Support
 
 - [x] Resizable Array; Vector class
+- [x] Stack
 - [ ] Sorting algorithms
     - [x] Selection Sort
     - [x] Insertion Sort
