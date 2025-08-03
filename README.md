@@ -9,6 +9,7 @@ Algorithms and Data structures in C++
 - [ ] Sorting algorithms
     - [x] Selection Sort
     - [x] Insertion Sort
+    - [x] Shell Sort
     - [x] Merge Sort
     - [ ] Quick Sort
     - [ ] Heap Sort
