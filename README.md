@@ -6,13 +6,13 @@ Algorithms and Data structures in C++
 
 - [x] Resizable Array; Vector class
 - [x] Stack
-- [ ] Sorting algorithms
-    - [x] Selection Sort
-    - [x] Insertion Sort
-    - [x] Shell Sort
-    - [x] Merge Sort
-    - [ ] Quick Sort
-    - [ ] Heap Sort
+- [x] Selection Sort
+- [x] Insertion Sort
+- [x] Shell Sort
+- [x] Merge Sort
+- [ ] Quick Sort
+- [ ] Heap Sort
+- [ ] Knuth shuffle
 
 ## Testing
 
